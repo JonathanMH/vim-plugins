@@ -1,0 +1,15 @@
+[submodule "vim-less"]
+	path = vim-less
+	url = https://github.com/groenewege/vim-less.git
+[submodule "vim-handlebars"]
+	path = vim-handlebars
+	url = https://github.com/nono/vim-handlebars.git
+[submodule "html5.vim"]
+	path = html5.vim
+	url = https://github.com/othree/html5.vim.git
+[submodule "underscore-templates.vim"]
+	path = underscore-templates.vim
+	url = https://github.com/aaronj1335/underscore-templates.vim
+[submodule "emmet-vim"]
+	path = emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
