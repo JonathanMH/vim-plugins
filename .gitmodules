@@ -22,3 +22,9 @@
 [submodule "vim-multiple-cursors"]
 	path = vim-multiple-cursors
 	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "dart-vim-plugin"]
+	path = dart-vim-plugin
+	url = https://github.com/dart-lang/dart-vim-plugin.git
+[submodule "mustache"]
+	path = mustache
+	url = git://github.com/mustache/vim-mustache-handlebars.git
